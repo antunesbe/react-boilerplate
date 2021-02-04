@@ -1,17 +1,22 @@
-# Expensify App
+# React App Boilerplate
 
-https://expensify-app-react-course-1.herokuapp.com/
+## Get started:
 
-## Heroku
+Clone app and run:
 
-### Heroku Commands
-
-Push to Heroku
 ```
-git push heroku <branch>
+yarn run install
 ```
 
-Check Logs
+## Run the server
+
 ```
-heroku logs
+yarn run dev-server
+```
+
+## Run tests
+
+```
+yarn test 
+yarn test -- --watch
 ```
